@@ -1,0 +1,12 @@
+{
+    "name": "calliope-pir",
+    "version": "0.0.1",
+    "description": "Erweiterung für Calliope V3 zur Nutzung des HC-SR501 PIR-Bewegungssensors",
+    "files": ["PIR.ts"],
+    "public": true,
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    }
+}
+
